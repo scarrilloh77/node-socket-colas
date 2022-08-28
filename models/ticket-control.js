@@ -3,8 +3,8 @@ const fs = require('fs');
 
 class Ticket {
   constructor(numero, escritorio) {
-    this.numero = '';
-    this.escritorio = '';
+    this.numero = numero;
+    this.escritorio = escritorio;
   }
 }
 
@@ -50,7 +50,7 @@ class TicketControl {
     this.tickets.push(ticket);
 
     this.guardarDB();
-    return 'Ticket ' + ticket.numero;
+    return `Ticket ${ticket.numero}`;
   }
 
   atenderTicket(escritorio) {
