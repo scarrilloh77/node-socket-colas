@@ -1,11 +1,1 @@
-{
-  "ultimo": 35,
-  "hoy": 28,
-  "tickets": [],
-  "ultimos4": [
-    { "numero": 35, "escritorio": "Escritorio 3" },
-    { "numero": 34, "escritorio": "Escritorio 3" },
-    { "numero": 33, "escritorio": "Escritorio 3" },
-    { "numero": 32, "escritorio": "Escritorio 3" }
-  ]
-}
+{"ultimo":109,"hoy":28,"tickets":[{"numero":97,"escritorio":null},{"numero":98,"escritorio":null},{"numero":99,"escritorio":null},{"numero":100,"escritorio":null},{"numero":101,"escritorio":null},{"numero":102,"escritorio":null},{"numero":103,"escritorio":null},{"numero":104,"escritorio":null},{"numero":105,"escritorio":null},{"numero":106,"escritorio":null},{"numero":107,"escritorio":null},{"numero":108,"escritorio":null},{"numero":109,"escritorio":null}],"ultimos4":[{"numero":96,"escritorio":"Escritorio 3"},{"numero":95,"escritorio":"Escritorio 3"},{"numero":94,"escritorio":"Escritorio 2"},{"numero":93,"escritorio":"Escritorio 2"}]}
